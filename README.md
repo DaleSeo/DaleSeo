@@ -16,7 +16,7 @@ I grow by sharing what I learn! I grew up in 🇰🇷 and am currently working i
 - [AlgoDale](https://www.algodale.com/): Tech interview solutions and guides for Korean developers (150K monthly visits)
 - [Dale's Code](https://www.youtube.com/@DaleSeo): YouTube channel for teaching Korean developers how to program (3K subscribers)
 - [Dale Study](https://www.dalestudy.com/): Online community for Korean developers who want to work abroad (800 members)
-- [Python GraphQL Client](https://github.com/prodigyeducation/python-graphql-client): Simple module for making requests to a GraphQL server in python (1M monthly PyPI downloads, 80 GitHub stars)
+- [Python GraphQL Client](https://github.com/prodigyeducation/python-graphql-client): Minimalist GraphQL client written in Python (1M monthly PyPI downloads, 80 GitHub stars)
 
 ## Books
 
