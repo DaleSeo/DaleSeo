@@ -1,5 +1,7 @@
 # Dale Seo
 
+[![My Skills](https://skillicons.dev/icons?i=apollo,graphql,bun,vite,astro,react,svelte,nestjs,prisma,postgres,redis,docker,cloudflare,aws,codepen,git,github,githubactions,html,css,js,ts,nodejs,npm,py,django,java,spring)](https://skillicons.dev)
+
 I grow by sharing what I learn! I grew up in 🇰🇷 and am currently working in 🇨🇦.
 
 - Blog: https://www.daleseo.com/
@@ -20,17 +22,9 @@ I grow by sharing what I learn! I grew up in 🇰🇷 and am currently working i
 
 ## Books
 
-https://github.com/DaleSeo/hello-bun/
+[Hello Bun](https://github.com/DaleSeo/hello-bun/): Introductory Book on Bun (written in Korean)
 
 ![Hello Bun](https://github.com/DaleSeo/hello-bun/raw/main/book.png)
-
-- [예스24](https://www.yes24.com/Product/Goods/134021042)
-- [교보문고](https://product.kyobobook.co.kr/detail/S000214450265)
-- [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791193926710)
-
-## Skills
-
-[![My Skills][(https://skillicons.dev/icons?i=js,html,css,wasm](https://skillicons.dev/icons?i=apollo,graphql,bun,vite,astro,react,svelte,nestjs,prisma,postgres,redis,docker,cloudflare,aws,codepen,git,github,githubactions,html,css,js,ts,nodejs,npm,py,django,java,spring))](https://skillicons.dev)
 
 <!--
 **DaleSeo/DaleSeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
