@@ -1,6 +1,6 @@
 # Dale Seo
 
-I grow by sharing what I learn! I grew up in 🇰🇷 andand am now working in 🇨🇦.
+I grow by sharing what I learn! I grew up in 🇰🇷 and am currently working in 🇨🇦.
 
 ![IMG_0300](https://github.com/user-attachments/assets/597b7093-e757-4b8a-8cd5-293ceede7115)
 
