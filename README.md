@@ -1,6 +1,6 @@
 # Dale Seo
 
-[![My Skills](https://skillicons.dev/icons?i=apollo,graphql,bun,vite,astro,react,svelte,nestjs,prisma,postgres,redis,docker,cloudflare,aws,codepen,git,github,githubactions,html,css,js,ts,rust,npm,py,django,java,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apollo,graphql,bun,vite,astro,react,svelte,nestjs,prisma,postgres,redis,docker,cloudflare,aws,codepen,git,github,githubactions,html,css,js,ts,npm,py,django,java,spring,rust)](https://skillicons.dev)
 
 I grow by sharing what I learn! I grew up in 🇰🇷 and am currently working in 🇨🇦.
 
