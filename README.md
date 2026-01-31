@@ -20,6 +20,10 @@ I grow by sharing what I learn! I grew up in 🇰🇷 and am currently working i
 - [Dale Study](https://www.dalestudy.com/): Online community for Korean developers who want to work abroad (800 members)
 - [Python GraphQL Client](https://github.com/prodigyeducation/python-graphql-client): Minimalist GraphQL client written in Python (1M monthly PyPI downloads, 80 GitHub stars)
 
+## Courses
+
+[코딩 테스트 합격을 위한 리트코드 핵심 문제 풀이](https://inf.run/8RjpM): Practical LeetCode Problem Solving
+
 ## Books
 
 [Hello Bun](https://github.com/DaleSeo/hello-bun/): Introductory Book on Bun (written in Korean)
