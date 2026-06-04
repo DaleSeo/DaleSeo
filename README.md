@@ -9,6 +9,8 @@ I grow by sharing what I learn! I grew up in 🇰🇷 and am currently working i
 - Discord: https://dales.link/discord
 - LinkedIn: https://www.linkedin.com/in/daleseo/
 
+[![Nominate to GitHub Stars](https://img.shields.io/badge/Nominate_to_GitHub_Stars-yellow?style=flat-square)](https://stars.github.com/nominate/)
+
 ![IMG_0300](https://github.com/user-attachments/assets/597b7093-e757-4b8a-8cd5-293ceede7115)
 
 ## Projects
